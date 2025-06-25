@@ -8,7 +8,7 @@ Depends:
 Compatibility:
 - [Flashback](https://modrinth.com/mod/flashback)
 
-
+Based on the original mod by [Lichcodes](https://github.com/Lichcodes), available at [WebcamMod](https://github.com/Lichcodes/WebcamMod).
 
 ![icon](https://github.com/user-attachments/assets/e93856f0-6859-44e9-b27d-fbf00a0c6c88)
 
@@ -17,3 +17,5 @@ Compatibility:
 ![2025-06-25_13 44 55](https://github.com/user-attachments/assets/1b22d047-cb15-4bd4-bfa9-b96c41ed71bf)
 ![2025-06-25_13 44 31](https://github.com/user-attachments/assets/1ac96798-9195-4757-99e4-5512d8bffc06)
 ![image](https://github.com/user-attachments/assets/b8fd1891-cc6f-4c90-91ab-1d2c73530481)
+
+
