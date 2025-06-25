@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/out/
+build/
+bin/
+
+# Gradle
+.gradle/
+libs
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal config
+*.swp
+*.bak
+*.tmp
+
+# Java
+*.class
+/run/
