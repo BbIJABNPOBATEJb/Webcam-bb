@@ -10,6 +10,10 @@ Compatibility:
 
 Based on the original mod by [Lichcodes](https://github.com/Lichcodes), available at [WebcamMod](https://github.com/Lichcodes/WebcamMod).
 
+## 🌐 Available on
+
+[![Modrinth downloads](https://img.shields.io/modrinth/dt/webcam-bb?color=blue&logo=modrinth&style=for-the-badge)](https://modrinth.com/mod/webcam-bb)
+
 ![icon](https://github.com/user-attachments/assets/e93856f0-6859-44e9-b27d-fbf00a0c6c88)
 
 ![image](https://github.com/user-attachments/assets/c617e26c-86dd-4906-9176-cb6a00572d3f)
