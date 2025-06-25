@@ -11,6 +11,7 @@ base {
 }
 
 repositories {
+    maven { url = "https://api.modrinth.com/maven" }
     maven {
         name 'Xander Maven'
         url 'https://maven.isxander.dev/releases'
@@ -30,7 +31,7 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-    modImplementation name: 'flashback'
+    modImplementation "maven.modrinth:flashback:0.34.0"
 
     compileOnly "org.projectlombok:lombok:1.18.30"
     annotationProcessor "org.projectlombok:lombok:1.18.30"
