@@ -1,12 +1,36 @@
 # Webcam-bb
+
+<details>
+<summary>EN</summary>
+
 A mod for rendering a webcam image above the player. Supports multiplayer.
 
 Depends:
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+- [Mod menu](https://modrinth.com/mod/modmenu)
 
 Compatibility:
 - [Flashback](https://modrinth.com/mod/flashback)
+
+</details>
+<details>
+<summary>RU</summary>
+
+Мод отображает изображение с вебкамеры над игроком. Поддерживает мультиплеер.
+
+Зависимости:
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+- [Mod menu](https://modrinth.com/mod/modmenu)
+
+Совместимость:
+- [Flashback](https://modrinth.com/mod/flashback)
+
+_Данный мод не имеет никакого отношения к FreakLand и основан только на разработке Lichcodes_
+
+</details>
+
 
 Based on the original mod by [Lichcodes](https://github.com/Lichcodes), available at [WebcamMod](https://github.com/Lichcodes/WebcamMod).
 
